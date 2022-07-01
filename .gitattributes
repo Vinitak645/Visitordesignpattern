@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+// To understand the chronology of all files you have to design the code in following manner
+// all department's class i.e (bussi, science, medical,comm, arts) are going to be part of a same package named DEPARTMENTS
+// Institute and socre's class will be part of a same package named InstituteScore.
+//Deprtmentisnpectionrule class should have it's own unique package named visitingrule
+// Dept1 and Departmentvisitor interface will be part of visitors package.
